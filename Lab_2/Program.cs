@@ -18,7 +18,7 @@ namespace LabTwo
                 do
                 {
                     Console.Clear();
-                    Console.WriteLine("Let's measure a room!77777777788888888888888888888888");
+                    Console.WriteLine("Let's measure a room!");
                     Console.WriteLine("What is the room's length?");
                     string inputLength = Console.ReadLine();
                     if (double.TryParse(inputLength, out length))
