@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2\\Lab_2.csproj": {}
+    "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2.csproj": {}
   },
   "projects": {
-    "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2\\Lab_2.csproj": {
+    "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2\\Lab_2.csproj",
+        "projectUniqueName": "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2.csproj",
         "projectName": "Lab_2",
-        "projectPath": "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2\\Lab_2.csproj",
+        "projectPath": "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2.csproj",
         "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "D:\\GrandCircus\\Labs\\Lab_2\\Lab_2\\obj\\",
+        "outputPath": "D:\\GrandCircus\\Labs\\Lab_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
